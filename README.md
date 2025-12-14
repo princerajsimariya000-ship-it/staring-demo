@@ -16,3 +16,5 @@ it add all he changes
 
 
  commit = git commit-m "some massage"
+ for push on github 
+ git push origin main
